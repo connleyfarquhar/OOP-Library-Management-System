@@ -1,7 +1,7 @@
 ## Library Management System
 ###### Java Object Orientated Programming Module       
 
-This Repository contains the Object Orientated Programming Assessment at Dundee & Angus College. The assessment aims to better understand the MVC Model (Model, View, Controller) in the Java Programming Language.      
+This Repository contains an Object Orientated Programming Project at Dundee & Angus College. The Project aims to better understand the MVC Model (Model, View, Controller) in the Java Programming Language.      
 This Library Management System allows for a user to:
 
 - Add Books, Journals & Videos to the Library System
